@@ -137,7 +137,3 @@ install.packages(c("ggplot2","ggrepel","pheatmap","msigdbr","dplyr","tibble"))
 
 ## Author
 **Sai Charan Pamidi**
-Bioinformatics / Computational Biology
-
-## License
-MIT
