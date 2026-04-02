@@ -1,0 +1,3 @@
+2
+Label: reverse_stranded
+Votes: [2, 2, 2, 2, 2, 2]

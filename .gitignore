@@ -1,0 +1,33 @@
+# Nextflow
+work/
+.nextflow/
+.nextflow.log*
+
+# Large data files
+*.bam
+*.bai
+*.fastq.gz
+*.fa
+*.fa.gz
+*.fq.gz
+
+# Reference files
+reference/
+
+# Raw data
+data/
+raw_fastq/
+
+# Logs
+logs/
+*.log
+slurm-*.out
+
+# R
+*.Rhistory
+*.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+.claude/
