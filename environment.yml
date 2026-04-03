@@ -210,4 +210,4 @@ dependencies:
   - zipp=3.23.0
   - zlib-ng=2.3.3
   - zstd=1.5.7
-prefix: /N/u/bkota/Quartz/.conda/envs/nextflow_env
+prefix: /N/u/saipamid/Quartz/.conda/envs/nextflow_env
