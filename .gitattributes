@@ -1,0 +1,6 @@
+# Exclude generated files from language statistics
+results/multiqc/multiqc_report.html linguist-generated=true
+results/deseq2/*.png                 linguist-generated=true
+results/counts/*.txt                 linguist-generated=true
+results/deseq2/pathway/*.csv         linguist-generated=true
+results/deseq2/*.csv                 linguist-generated=true
